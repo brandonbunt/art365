@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Daily Artwork Display</title>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8">
+  <title>Daily Artwork</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
       margin: 0;
@@ -20,18 +20,6 @@
   </style>
 </head>
 <body>
-  <img id="artwork" alt="Loading artwork..." />
-  <script>
-    async function loadLatestArtwork() {
-      try {
-        const response = await fetch('latest.json');
-        const data = await response.json();
-        document.getElementById('artwork').src = data.imageUrl;
-      } catch (error) {
-        console.error('Failed to load artwork:', error);
-      }
-    }
-    loadLatestArtwork();
-  </script>
+  <img src="images/today.jpg" alt="Today's Artwork">
 </body>
 </html>
