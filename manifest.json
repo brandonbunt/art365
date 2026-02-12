@@ -1,0 +1,1518 @@
+{
+  "version": "1.0",
+  "total_images": 189,
+  "images": [
+    {
+      "id": 1,
+      "filename": "1. The Sun by Giuseppe Pellizza da Volpedo, 1904.jpg",
+      "artist": "Giuseppe Pellizza da Volpedo",
+      "year": 1904,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/1. The Sun by Giuseppe Pellizza da Volpedo, 1904.jpg",
+      "title": "The Sun"
+    },
+    {
+      "id": 2,
+      "filename": "2. Melancholia by Jacek Malczewski, 1894.png",
+      "artist": "Jacek Malczewski",
+      "year": 1894,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/2. Melancholia by Jacek Malczewski, 1894.png",
+      "title": "Melancholia"
+    },
+    {
+      "id": 3,
+      "filename": "3. Pharmacie by Marcel Duchamp, 1914.jpg",
+      "artist": "Marcel Duchamp",
+      "year": 1914,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/3. Pharmacie by Marcel Duchamp, 1914.jpg",
+      "title": "Pharmacie"
+    },
+    {
+      "id": 4,
+      "filename": "4. Portrait of Dorothea by Max Ernst, 1960.jpg",
+      "artist": "Max Ernst",
+      "year": 1960,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/4. Portrait of Dorothea by Max Ernst, 1960.jpg",
+      "title": "Portrait of Dorothea"
+    },
+    {
+      "id": 6,
+      "filename": "6. The Frogs Asking for a King by Gustave Moreau, 1884.jpg",
+      "artist": "Gustave Moreau",
+      "year": 1884,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/6. The Frogs Asking for a King by Gustave Moreau, 1884.jpg",
+      "title": "The Frogs Asking for a King"
+    },
+    {
+      "id": 7,
+      "filename": "7. Self-Portrait by Louis Janmot, 1832.jpg",
+      "artist": "Louis Janmot",
+      "year": 1832,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/7. Self-Portrait by Louis Janmot, 1832.jpg",
+      "title": "Self-Portrait"
+    },
+    {
+      "id": 8,
+      "filename": "8. Eyes - The Sun by Pavel Tchelitchew, 1944.jpg",
+      "artist": "Pavel Tchelitchew",
+      "year": 1944,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/8. Eyes - The Sun by Pavel Tchelitchew, 1944.jpg",
+      "title": "Eyes - The Sun"
+    },
+    {
+      "id": 9,
+      "filename": "9. Bows by Frances MacNair, 1910-11.jpg",
+      "artist": "Frances MacNair",
+      "year": 1910,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/9. Bows by Frances MacNair, 1910-11.jpg",
+      "title": "Bows"
+    },
+    {
+      "id": 10,
+      "filename": "10. The Past by Mikalojus Konstantinas Ciurlionis, 1907.jpg",
+      "artist": "Mikalojus Konstantinas Ciurlionis",
+      "year": 1907,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/10. The Past by Mikalojus Konstantinas Ciurlionis, 1907.jpg",
+      "title": "The Past"
+    },
+    {
+      "id": 11,
+      "filename": "11. Melodrama by Carol Rama, 1960.jpg",
+      "artist": "Carol Rama",
+      "year": 1960,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/11. Melodrama by Carol Rama, 1960.jpg",
+      "title": "Melodrama"
+    },
+    {
+      "id": 12,
+      "filename": "12. The Little Hills by Margaret Macdonald Mackintosh, 1914.jpg",
+      "artist": "Margaret Macdonald Mackintosh",
+      "year": 1914,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/12. The Little Hills by Margaret Macdonald Mackintosh, 1914.jpg",
+      "title": "The Little Hills"
+    },
+    {
+      "id": 13,
+      "filename": "13. The Runaway Girl by Louise Bourgeois, 1938.jpg",
+      "artist": "Louise Bourgeois",
+      "year": 1938,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/13. The Runaway Girl by Louise Bourgeois, 1938.jpg",
+      "title": "The Runaway Girl"
+    },
+    {
+      "id": 14,
+      "filename": "14. Gena the Crocodile by Oleksandr Hnylyzkyj, 2002.jpg",
+      "artist": "Oleksandr Hnylyzkyj",
+      "year": 2002,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/14. Gena the Crocodile by Oleksandr Hnylyzkyj, 2002.jpg",
+      "title": "Gena the Crocodile"
+    },
+    {
+      "id": 15,
+      "filename": "15. Kosmic Music by Wadada Leo Smith, 2008.jpg",
+      "artist": "Wadada Leo Smith",
+      "year": 2008,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/15. Kosmic Music by Wadada Leo Smith, 2008.jpg",
+      "title": "Kosmic Music"
+    },
+    {
+      "id": 17,
+      "filename": "17. Freeway by Vija Clemins, 1966.jpg",
+      "artist": "Vija Clemins",
+      "year": 1966,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/17. Freeway by Vija Clemins, 1966.jpg",
+      "title": "Freeway"
+    },
+    {
+      "id": 18,
+      "filename": "18. Christ_s Entry Into Brussels in 1889 by James Ensor, 1888.jpg",
+      "artist": "James Ensor",
+      "year": 1888,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/18. Christ_s Entry Into Brussels in 1889 by James Ensor, 1888.jpg",
+      "title": "Christ_s Entry Into Brussels in 1889"
+    },
+    {
+      "id": 19,
+      "filename": "19. Untitled by Mostafa Dashti, 2009.jpg",
+      "artist": "Mostafa Dashti",
+      "year": 2009,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/19. Untitled by Mostafa Dashti, 2009.jpg",
+      "title": "Untitled"
+    },
+    {
+      "id": 20,
+      "filename": "20. Choir of St. Bavo, Haarlem by Pieter Jansz Saenredam, 1635.jpg",
+      "artist": "Pieter Jansz Saenredam",
+      "year": 1635,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/20. Choir of St. Bavo, Haarlem by Pieter Jansz Saenredam, 1635.jpg",
+      "title": "Choir of St. Bavo, Haarlem"
+    },
+    {
+      "id": 21,
+      "filename": "21. Ade-Ledic-Nander2 by Oyvind Fahlstrom, 1955-57.jpg",
+      "artist": "Oyvind Fahlstrom",
+      "year": 1955,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/21. Ade-Ledic-Nander2 by Oyvind Fahlstrom, 1955-57.jpg",
+      "title": "Ade-Ledic-Nander2"
+    },
+    {
+      "id": 22,
+      "filename": "22. The Life Line by  Winslow Homer, 1884.jpg",
+      "artist": "Winslow Homer",
+      "year": 1884,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/22. The Life Line by  Winslow Homer, 1884.jpg",
+      "title": "The Life Line"
+    },
+    {
+      "id": 23,
+      "filename": "23. Kali by Bhupen Khakhar, 1965.jpg",
+      "artist": "Bhupen Khakhar",
+      "year": 1965,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/23. Kali by Bhupen Khakhar, 1965.jpg",
+      "title": "Kali"
+    },
+    {
+      "id": 24,
+      "filename": "24. A Girl Playing the Flute with Goat by Bart van der Leck, 1944-1945.jpg",
+      "artist": "Bart van der Leck",
+      "year": 1944,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/24. A Girl Playing the Flute with Goat by Bart van der Leck, 1944-1945.jpg",
+      "title": "A Girl Playing the Flute with Goat"
+    },
+    {
+      "id": 25,
+      "filename": "25. Ball of the Burning Men by Georges Rochegrosse, 1889.JPG",
+      "artist": "Georges Rochegrosse",
+      "year": 1889,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/25. Ball of the Burning Men by Georges Rochegrosse, 1889.JPG",
+      "title": "Ball of the Burning Men"
+    },
+    {
+      "id": 26,
+      "filename": "26. Untitled by Kazuko Miyamoto, 1977.jpg",
+      "artist": "Kazuko Miyamoto",
+      "year": 1977,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/26. Untitled by Kazuko Miyamoto, 1977.jpg",
+      "title": "Untitled"
+    },
+    {
+      "id": 27,
+      "filename": "27. The Phantom Hunter by William Blair Bruce, 1888.jpg",
+      "artist": "William Blair Bruce",
+      "year": 1888,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/27. The Phantom Hunter by William Blair Bruce, 1888.jpg",
+      "title": "The Phantom Hunter"
+    },
+    {
+      "id": 28,
+      "filename": "28. Basket of Apples by Levi Wells Prentice, 1890.jpg",
+      "artist": "Levi Wells Prentice",
+      "year": 1890,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/28. Basket of Apples by Levi Wells Prentice, 1890.jpg",
+      "title": "Basket of Apples"
+    },
+    {
+      "id": 29,
+      "filename": "29. Landschaft VIII by H.R. Giger, 1972-73.jpg",
+      "artist": "H.R. Giger",
+      "year": 1972,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/29. Landschaft VIII by H.R. Giger, 1972-73.jpg",
+      "title": "Landschaft VIII"
+    },
+    {
+      "id": 30,
+      "filename": "30. Dante Before the Gates of Purgatory by Bela Čikoš Sesija, 1897.JPG",
+      "artist": "Bela Čikoš Sesija",
+      "year": 1897,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/30. Dante Before the Gates of Purgatory by Bela Čikoš Sesija, 1897.JPG",
+      "title": "Dante Before the Gates of Purgatory"
+    },
+    {
+      "id": 31,
+      "filename": "31. White Pekinese by Sanyu, 1931.jpg",
+      "artist": "Sanyu",
+      "year": 1931,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/31. White Pekinese by Sanyu, 1931.jpg",
+      "title": "White Pekinese"
+    },
+    {
+      "id": 32,
+      "filename": "32. The Prophesy (Sputnik) by Forrest Bess, 1946.jpg",
+      "artist": "Forrest Bess",
+      "year": 1946,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/32. The Prophesy (Sputnik) by Forrest Bess, 1946.jpg",
+      "title": "The Prophesy (Sputnik)"
+    },
+    {
+      "id": 33,
+      "filename": "33. Sacred Grove by Arnold Böcklin, 1882.jpg",
+      "artist": "Arnold Böcklin",
+      "year": 1882,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/33. Sacred Grove by Arnold Böcklin, 1882.jpg",
+      "title": "Sacred Grove"
+    },
+    {
+      "id": 34,
+      "filename": "34. Depósito de óleo by Candido Portinari, 1933.jpg",
+      "artist": "Candido Portinari",
+      "year": 1933,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/34. Depósito de óleo by Candido Portinari, 1933.jpg",
+      "title": "Depósito de óleo"
+    },
+    {
+      "id": 36,
+      "filename": "36. Nature Speaks by Imants Tillers, 2002.jpg",
+      "artist": "Imants Tillers",
+      "year": 2002,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/36. Nature Speaks by Imants Tillers, 2002.jpg",
+      "title": "Nature Speaks"
+    },
+    {
+      "id": 37,
+      "filename": "37. Nocturne in Black and Gold - The FallingRocket by James McNeill Whistler, 1875.jpg",
+      "artist": "James McNeill Whistler",
+      "year": 1875,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/37. Nocturne in Black and Gold - The FallingRocket by James McNeill Whistler, 1875.jpg",
+      "title": "Nocturne in Black and Gold - The FallingRocket"
+    },
+    {
+      "id": 38,
+      "filename": "38. Big Heat by Martin Wong, 1986.jpeg",
+      "artist": "Martin Wong",
+      "year": 1986,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/38. Big Heat by Martin Wong, 1986.jpeg",
+      "title": "Big Heat"
+    },
+    {
+      "id": 39,
+      "filename": "39. Being Beauteous (The Appletalists) by Matta, 1952.jpg",
+      "artist": "Matta",
+      "year": 1952,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/39. Being Beauteous (The Appletalists) by Matta, 1952.jpg",
+      "title": "Being Beauteous (The Appletalists)"
+    },
+    {
+      "id": 40,
+      "filename": "40.Visions of Glory by Arthur Davies, 1896.jpg",
+      "artist": "Arthur Davies",
+      "year": 1896,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/40.Visions of Glory by Arthur Davies, 1896.jpg",
+      "title": "Visions of Glory"
+    },
+    {
+      "id": 41,
+      "filename": "41. Untitled (Lipstick) by Jo Baer, 1977.jpg",
+      "artist": "Jo Baer",
+      "year": 1977,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/41. Untitled (Lipstick) by Jo Baer, 1977.jpg",
+      "title": "Untitled (Lipstick)"
+    },
+    {
+      "id": 42,
+      "filename": "42. There_s No Place Like Home by Clay Witt, 2023.jpg",
+      "artist": "Clay Witt",
+      "year": 2023,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/42. There_s No Place Like Home by Clay Witt, 2023.jpg",
+      "title": "There_s No Place Like Home"
+    },
+    {
+      "id": 43,
+      "filename": "43. Dynamism of a Dog on a Leash by Giacomo Balla, 1912.jpg",
+      "artist": "Giacomo Balla",
+      "year": 1912,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/43. Dynamism of a Dog on a Leash by Giacomo Balla, 1912.jpg",
+      "title": "Dynamism of a Dog on a Leash"
+    },
+    {
+      "id": 44,
+      "filename": "44. Untitled from Flowers by Ruth Asawa, 1965.jpg",
+      "artist": "Ruth Asawa",
+      "year": 1965,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/44. Untitled from Flowers by Ruth Asawa, 1965.jpg",
+      "title": "Untitled from Flowers"
+    },
+    {
+      "id": 45,
+      "filename": "45. Lioness At Rest by Rosa Bonheur, 1874.jpg",
+      "artist": "Rosa Bonheur",
+      "year": 1874,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/45. Lioness At Rest by Rosa Bonheur, 1874.jpg",
+      "title": "Lioness At Rest"
+    },
+    {
+      "id": 46,
+      "filename": "46. The Horde by Yarsolav Gerzhedovich, 2009.jpg",
+      "artist": "Yarsolav Gerzhedovich",
+      "year": 2009,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/46. The Horde by Yarsolav Gerzhedovich, 2009.jpg",
+      "title": "The Horde"
+    },
+    {
+      "id": 47,
+      "filename": "47. The Genius and the Crowd by Yeghishe Tadevosyan, 1909.jpg",
+      "artist": "Yeghishe Tadevosyan",
+      "year": 1909,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/47. The Genius and the Crowd by Yeghishe Tadevosyan, 1909.jpg",
+      "title": "The Genius and the Crowd"
+    },
+    {
+      "id": 48,
+      "filename": "48. Our Lady of Penmarch by Lucien Levy-Dhurmer, 1896.jpg",
+      "artist": "Lucien Levy-Dhurmer",
+      "year": 1896,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/48. Our Lady of Penmarch by Lucien Levy-Dhurmer, 1896.jpg",
+      "title": "Our Lady of Penmarch"
+    },
+    {
+      "id": 49,
+      "filename": "49. The Battle of Fleurus, 1622 by Peter Snayers, 1615-1650.jpg",
+      "artist": "Peter Snayers",
+      "year": 1615,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/49. The Battle of Fleurus, 1622 by Peter Snayers, 1615-1650.jpg",
+      "title": "The Battle of Fleurus, 1622"
+    },
+    {
+      "id": 50,
+      "filename": "50. A Balloon Site, Coventry by Laura Knight, 1943.jpg",
+      "artist": "Laura Knight",
+      "year": 1943,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/50. A Balloon Site, Coventry by Laura Knight, 1943.jpg",
+      "title": "A Balloon Site, Coventry"
+    },
+    {
+      "id": 51,
+      "filename": "51. Glory by Park Rehyun, 1967.jpg",
+      "artist": "Park Rehyun",
+      "year": 1967,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/51. Glory by Park Rehyun, 1967.jpg",
+      "title": "Glory"
+    },
+    {
+      "id": 52,
+      "filename": "52. The Great Convoy to North Africa, November 1942 by Richard Eurich, 1943.jpg",
+      "artist": "Richard Eurich",
+      "year": 1943,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/52. The Great Convoy to North Africa, November 1942 by Richard Eurich, 1943.jpg",
+      "title": "The Great Convoy to North Africa, November 1942"
+    },
+    {
+      "id": 53,
+      "filename": "53. Saint Nicholas of Myra Saves Three Innocents from Death by Ilya Repin, 1888.jpg",
+      "artist": "Ilya Repin",
+      "year": 1888,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/53. Saint Nicholas of Myra Saves Three Innocents from Death by Ilya Repin, 1888.jpg",
+      "title": "Saint Nicholas of Myra Saves Three Innocents from Death"
+    },
+    {
+      "id": 54,
+      "filename": "54. Soyut Kompozisyon by Fahrelnissa Zeid, 1950.jpg",
+      "artist": "Fahrelnissa Zeid",
+      "year": 1950,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/54. Soyut Kompozisyon by Fahrelnissa Zeid, 1950.jpg",
+      "title": "Soyut Kompozisyon"
+    },
+    {
+      "id": 55,
+      "filename": "55. Winter Scene in Brooklyn by Francis Guy, 1819-20.jpg",
+      "artist": "Francis Guy",
+      "year": 1819,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/55. Winter Scene in Brooklyn by Francis Guy, 1819-20.jpg",
+      "title": "Winter Scene in Brooklyn"
+    },
+    {
+      "id": 56,
+      "filename": "56. yoyasa by Olle Baertling, 1970.png",
+      "artist": "Olle Baertling",
+      "year": 1970,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/56. yoyasa by Olle Baertling, 1970.png",
+      "title": "yoyasa"
+    },
+    {
+      "id": 57,
+      "filename": "57. Appearance of Crosses 2022-16 by Ding Yi, 2022.jpg",
+      "artist": "Ding Yi",
+      "year": 2022,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/57. Appearance of Crosses 2022-16 by Ding Yi, 2022.jpg",
+      "title": "Appearance of Crosses 2022-16"
+    },
+    {
+      "id": 59,
+      "filename": "59. Tigers by Victor Vasarely, 1938.jpg",
+      "artist": "Victor Vasarely",
+      "year": 1938,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/59. Tigers by Victor Vasarely, 1938.jpg",
+      "title": "Tigers"
+    },
+    {
+      "id": 60,
+      "filename": "60. untitled by Juan Davila, 2023.jpg",
+      "artist": "Juan Davila",
+      "year": 2023,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/60. untitled by Juan Davila, 2023.jpg",
+      "title": "untitled"
+    },
+    {
+      "id": 61,
+      "filename": "61. Toora by Jules Olitski, 1980.jpg",
+      "artist": "Jules Olitski",
+      "year": 1980,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/61. Toora by Jules Olitski, 1980.jpg",
+      "title": "Toora"
+    },
+    {
+      "id": 62,
+      "filename": "62. Red Cavalry by Kazimir Malevich, 1932.jpg",
+      "artist": "Kazimir Malevich",
+      "year": 1932,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/62. Red Cavalry by Kazimir Malevich, 1932.jpg",
+      "title": "Red Cavalry"
+    },
+    {
+      "id": 63,
+      "filename": "63. Washington Bridge by Barbro Östlihn, 1962.jpg",
+      "artist": "Barbro Östlihn",
+      "year": 1962,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/63. Washington Bridge by Barbro Östlihn, 1962.jpg",
+      "title": "Washington Bridge"
+    },
+    {
+      "id": 64,
+      "filename": "64. title unknown by Jamil Hamoudi, 1958.jpg",
+      "artist": "Jamil Hamoudi",
+      "year": 1958,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/64. title unknown by Jamil Hamoudi, 1958.jpg",
+      "title": "title unknown"
+    },
+    {
+      "id": 65,
+      "filename": "65. Soft Pink by Richard Hamilton, 1971-72.jpg",
+      "artist": "Richard Hamilton",
+      "year": 1971,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/65. Soft Pink by Richard Hamilton, 1971-72.jpg",
+      "title": "Soft Pink"
+    },
+    {
+      "id": 66,
+      "filename": "66. Apocalypse by Merab Abramishvili, 1994.jpg",
+      "artist": "Merab Abramishvili",
+      "year": 1994,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/66. Apocalypse by Merab Abramishvili, 1994.jpg",
+      "title": "Apocalypse"
+    },
+    {
+      "id": 67,
+      "filename": "67. Ultra-Marine 2313 by Kim Tschoon Su, 2023.png",
+      "artist": "Kim Tschoon Su",
+      "year": 2023,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/67. Ultra-Marine 2313 by Kim Tschoon Su, 2023.png",
+      "title": "Ultra-Marine 2313"
+    },
+    {
+      "id": 68,
+      "filename": "68. Sun, Church in Zeeland_ Zouteland Church Facade by Piet Mondrian, 1909-10.jpg",
+      "artist": "Piet Mondrian",
+      "year": 1909,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/68. Sun, Church in Zeeland_ Zouteland Church Facade by Piet Mondrian, 1909-10.jpg",
+      "title": "Sun, Church in Zeeland_ Zouteland Church Facade"
+    },
+    {
+      "id": 69,
+      "filename": "69. Untitled by Lucy McKenzie, 2002.jpg",
+      "artist": "Lucy McKenzie",
+      "year": 2002,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/69. Untitled by Lucy McKenzie, 2002.jpg",
+      "title": "Untitled"
+    },
+    {
+      "id": 70,
+      "filename": "70. Within and Without by Tom Butter, 2015.jpg",
+      "artist": "Tom Butter",
+      "year": 2015,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/70. Within and Without by Tom Butter, 2015.jpg",
+      "title": "Within and Without"
+    },
+    {
+      "id": 71,
+      "filename": "71. Walking, Waking, Singing, in the Next Dimension by Morris Graves, 1979.jpg",
+      "artist": "Morris Graves",
+      "year": 1979,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/71. Walking, Waking, Singing, in the Next Dimension by Morris Graves, 1979.jpg",
+      "title": "Walking, Waking, Singing, in the Next Dimension"
+    },
+    {
+      "id": 72,
+      "filename": "72. Betty by Gerhard Richter, 1988.jpg",
+      "artist": "Gerhard Richter",
+      "year": 1988,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/72. Betty by Gerhard Richter, 1988.jpg",
+      "title": "Betty"
+    },
+    {
+      "id": 73,
+      "filename": "73. Designated for Leisure by Toby Ziegler, 2004.jpg",
+      "artist": "Toby Ziegler",
+      "year": 2004,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/73. Designated for Leisure by Toby Ziegler, 2004.jpg",
+      "title": "Designated for Leisure"
+    },
+    {
+      "id": 74,
+      "filename": "74. The Painter by Kiki Kogelnik, 1975.jpg",
+      "artist": "Kiki Kogelnik",
+      "year": 1975,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/74. The Painter by Kiki Kogelnik, 1975.jpg",
+      "title": "The Painter"
+    },
+    {
+      "id": 75,
+      "filename": "75. Nec mergitur by Ferdynand Ruszczyc, 1904-05.jpg",
+      "artist": "Ferdynand Ruszczyc",
+      "year": 1904,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/75. Nec mergitur by Ferdynand Ruszczyc, 1904-05.jpg",
+      "title": "Nec mergitur"
+    },
+    {
+      "id": 76,
+      "filename": "76. Starry Night II by Jutta Koether, 1988.jpg",
+      "artist": "Jutta Koether",
+      "year": 1988,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/76. Starry Night II by Jutta Koether, 1988.jpg",
+      "title": "Starry Night II"
+    },
+    {
+      "id": 77,
+      "filename": "77. Untitled by Albert Oehlen, 1989.jpg",
+      "artist": "Albert Oehlen",
+      "year": 1989,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/77. Untitled by Albert Oehlen, 1989.jpg",
+      "title": "Untitled"
+    },
+    {
+      "id": 78,
+      "filename": "78. The Demon Downcast by Mikhail Vrubel, 1902.jpg",
+      "artist": "Mikhail Vrubel",
+      "year": 1902,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/78. The Demon Downcast by Mikhail Vrubel, 1902.jpg",
+      "title": "The Demon Downcast"
+    },
+    {
+      "id": 79,
+      "filename": "79. Escape to Morning by Carroll Cloar, 1971.jpg",
+      "artist": "Carroll Cloar",
+      "year": 1971,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/79. Escape to Morning by Carroll Cloar, 1971.jpg",
+      "title": "Escape to Morning"
+    },
+    {
+      "id": 80,
+      "filename": "80. Battle for the Twentieth Century by René Daniëls, 1984.jpeg",
+      "artist": "René Daniëls",
+      "year": 1984,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/80. Battle for the Twentieth Century by René Daniëls, 1984.jpeg",
+      "title": "Battle for the Twentieth Century"
+    },
+    {
+      "id": 81,
+      "filename": "81. Untitled (New York Series) by Ed Clark, 1991.jpg",
+      "artist": "Ed Clark",
+      "year": 1991,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/81. Untitled (New York Series) by Ed Clark, 1991.jpg",
+      "title": "Untitled (New York Series)"
+    },
+    {
+      "id": 82,
+      "filename": "82. Untitled (Back of a Torso) by Christina Ramberg, 1968.jpg",
+      "artist": "Christina Ramberg",
+      "year": 1968,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/82. Untitled (Back of a Torso) by Christina Ramberg, 1968.jpg",
+      "title": "Untitled (Back of a Torso)"
+    },
+    {
+      "id": 83,
+      "filename": "83. Martin Luther King Jr. and the Kennedy Brothers by Elijah Pierce, 1977.jpg",
+      "artist": "Elijah Pierce",
+      "year": 1977,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/83. Martin Luther King Jr. and the Kennedy Brothers by Elijah Pierce, 1977.jpg",
+      "title": "Martin Luther King Jr. and the Kennedy Brothers"
+    },
+    {
+      "id": 84,
+      "filename": "84. Touching earth by Ilya Chichkan, 2000something.jpg",
+      "artist": "Ilya Chichkan",
+      "year": 2000,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/84. Touching earth by Ilya Chichkan, 2000something.jpg",
+      "title": "Touching earth"
+    },
+    {
+      "id": 85,
+      "filename": "85. Full Moon Over Kilauea by Jules Tavernier, 1887.jpg",
+      "artist": "Jules Tavernier",
+      "year": 1887,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/85. Full Moon Over Kilauea by Jules Tavernier, 1887.jpg",
+      "title": "Full Moon Over Kilauea"
+    },
+    {
+      "id": 87,
+      "filename": "87. Landscape with Nuclear Power Plants by Carel Willink, 1982.jpg",
+      "artist": "Carel Willink",
+      "year": 1982,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/87. Landscape with Nuclear Power Plants by Carel Willink, 1982.jpg",
+      "title": "Landscape with Nuclear Power Plants"
+    },
+    {
+      "id": 88,
+      "filename": "88. Untitled by Guillermo Kuitca, 2003.jpg",
+      "artist": "Guillermo Kuitca",
+      "year": 2003,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/88. Untitled by Guillermo Kuitca, 2003.jpg",
+      "title": "Untitled"
+    },
+    {
+      "id": 89,
+      "filename": "89. For Herb and Dorothy by Daryl Trivieri, 1987.jpg",
+      "artist": "Daryl Trivieri",
+      "year": 1987,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/89. For Herb and Dorothy by Daryl Trivieri, 1987.jpg",
+      "title": "For Herb and Dorothy"
+    },
+    {
+      "id": 90,
+      "filename": "90. Head of a Goddess by John Duncan, 1904.JPG",
+      "artist": "John Duncan",
+      "year": 1904,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/90. Head of a Goddess by John Duncan, 1904.JPG",
+      "title": "Head of a Goddess"
+    },
+    {
+      "id": 91,
+      "filename": "91. Ray by Dan Christensen, 2000.jpg",
+      "artist": "Dan Christensen",
+      "year": 2000,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/91. Ray by Dan Christensen, 2000.jpg",
+      "title": "Ray"
+    },
+    {
+      "id": 92,
+      "filename": "92. The Burning of the Houses of Lords and Commons by J. M. W. Turner, 1834.jpg",
+      "artist": "J. M. W. Turner",
+      "year": 1834,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/92. The Burning of the Houses of Lords and Commons by J. M. W. Turner, 1834.jpg",
+      "title": "The Burning of the Houses of Lords and Commons"
+    },
+    {
+      "id": 93,
+      "filename": "93. Crépuscule by Pierre Bonnard, 1892.jpg",
+      "artist": "Pierre Bonnard",
+      "year": 1892,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/93. Crépuscule by Pierre Bonnard, 1892.jpg",
+      "title": "Crépuscule"
+    },
+    {
+      "id": 94,
+      "filename": "94. Parc Monceau by Jean Metzinger, 1906.jpg",
+      "artist": "Jean Metzinger",
+      "year": 1906,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/94. Parc Monceau by Jean Metzinger, 1906.jpg",
+      "title": "Parc Monceau"
+    },
+    {
+      "id": 95,
+      "filename": "95. The Cello Player by Edwin Dickinson, 1924-26.jpeg",
+      "artist": "Edwin Dickinson",
+      "year": 1924,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/95. The Cello Player by Edwin Dickinson, 1924-26.jpeg",
+      "title": "The Cello Player"
+    },
+    {
+      "id": 96,
+      "filename": "96. Wonderland by Psyfox and Chichkan, 2012.jpg",
+      "artist": "Psyfox and Chichkan",
+      "year": 2012,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/96. Wonderland by Psyfox and Chichkan, 2012.jpg",
+      "title": "Wonderland"
+    },
+    {
+      "id": 97,
+      "filename": "97. Keepers of the Lighthouse by Malcolm Morley, 1994.jpg",
+      "artist": "Malcolm Morley",
+      "year": 1994,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/97. Keepers of the Lighthouse by Malcolm Morley, 1994.jpg",
+      "title": "Keepers of the Lighthouse"
+    },
+    {
+      "id": 98,
+      "filename": "98. Le monde du mâle II by Konrad Klapheck, 1992.jpeg",
+      "artist": "Konrad Klapheck",
+      "year": 1992,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/98. Le monde du mâle II by Konrad Klapheck, 1992.jpeg",
+      "title": "Le monde du mâle II"
+    },
+    {
+      "id": 100,
+      "filename": "100. Courtyard with Lunatics by Francisco de Goya, 1794.jpg",
+      "artist": "Francisco de Goya",
+      "year": 1794,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/100. Courtyard with Lunatics by Francisco de Goya, 1794.jpg",
+      "title": "Courtyard with Lunatics"
+    },
+    {
+      "id": 101,
+      "filename": "101. Praying Mantis by Julien Ceccaldi, 2018.png",
+      "artist": "Julien Ceccaldi",
+      "year": 2018,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/101. Praying Mantis by Julien Ceccaldi, 2018.png",
+      "title": "Praying Mantis"
+    },
+    {
+      "id": 102,
+      "filename": "102. Réseau centré M67 by Isidore Isou, 1961.jpg",
+      "artist": "Isidore Isou",
+      "year": 1961,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/102. Réseau centré M67 by Isidore Isou, 1961.jpg",
+      "title": "Réseau centré M67"
+    },
+    {
+      "id": 103,
+      "filename": "103. An Egyptian Pot Seller at Gizeh by Elisaeth Jerichau-Baumann, 1876-78.jpg",
+      "artist": "Elisaeth Jerichau-Baumann",
+      "year": 1876,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/103. An Egyptian Pot Seller at Gizeh by Elisaeth Jerichau-Baumann, 1876-78.jpg",
+      "title": "An Egyptian Pot Seller at Gizeh"
+    },
+    {
+      "id": 104,
+      "filename": "104. Rest at Harvest by William-Adolphe Bouguereau, 1865.jpg",
+      "artist": "William-Adolphe Bouguereau",
+      "year": 1865,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/104. Rest at Harvest by William-Adolphe Bouguereau, 1865.jpg",
+      "title": "Rest at Harvest"
+    },
+    {
+      "id": 105,
+      "filename": "105. The Mirage of Time by Yves Tanguy, 1954.jpg",
+      "artist": "Yves Tanguy",
+      "year": 1954,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/105. The Mirage of Time by Yves Tanguy, 1954.jpg",
+      "title": "The Mirage of Time"
+    },
+    {
+      "id": 106,
+      "filename": "106. Saint Bartholomew by Matteo di Giovanni, 1480-85.jpg",
+      "artist": "Matteo di Giovanni",
+      "year": 1480,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/106. Saint Bartholomew by Matteo di Giovanni, 1480-85.jpg",
+      "title": "Saint Bartholomew"
+    },
+    {
+      "id": 107,
+      "filename": "107. Untitled by Paul Thek, 1987.jpg",
+      "artist": "Paul Thek",
+      "year": 1987,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/107. Untitled by Paul Thek, 1987.jpg",
+      "title": "Untitled"
+    },
+    {
+      "id": 108,
+      "filename": "108. Great Painting by Antoni Tapies, 1958.jpg",
+      "artist": "Antoni Tapies",
+      "year": 1958,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/108. Great Painting by Antoni Tapies, 1958.jpg",
+      "title": "Great Painting"
+    },
+    {
+      "id": 109,
+      "filename": "109. Tessellation Sky by George Woodman, 1975.jpg",
+      "artist": "George Woodman",
+      "year": 1975,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/109. Tessellation Sky by George Woodman, 1975.jpg",
+      "title": "Tessellation Sky"
+    },
+    {
+      "id": 110,
+      "filename": "110. The Midnight Ride of Paul Revere by Grant Wood, 1931.jpg",
+      "artist": "Grant Wood",
+      "year": 1931,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/110. The Midnight Ride of Paul Revere by Grant Wood, 1931.jpg",
+      "title": "The Midnight Ride of Paul Revere"
+    },
+    {
+      "id": 111,
+      "filename": "111. Three Feet by Ethan Means, 2025.png",
+      "artist": "Ethan Means",
+      "year": 2025,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/111. Three Feet by Ethan Means, 2025.png",
+      "title": "Three Feet"
+    },
+    {
+      "id": 113,
+      "filename": "113. The Destruction of Pharaoh_s Host by John Martin, 1836.jpg",
+      "artist": "John Martin",
+      "year": 1836,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/113. The Destruction of Pharaoh_s Host by John Martin, 1836.jpg",
+      "title": "The Destruction of Pharaoh_s Host"
+    },
+    {
+      "id": 114,
+      "filename": "114. Landscape (The Hare) by Joan Miró, 1927.jpg",
+      "artist": "Joan Miró",
+      "year": 1927,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/114. Landscape (The Hare) by Joan Miró, 1927.jpg",
+      "title": "Landscape (The Hare)"
+    },
+    {
+      "id": 115,
+      "filename": "115. Voyage of St Columba, Derry to Iona by Letitia Merion Hamilton, 1963.jpg",
+      "artist": "Letitia Merion Hamilton",
+      "year": 1963,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/115. Voyage of St Columba, Derry to Iona by Letitia Merion Hamilton, 1963.jpg",
+      "title": "Voyage of St Columba, Derry to Iona"
+    },
+    {
+      "id": 116,
+      "filename": "116. Christ in the Wilderness by Ivan Kramskoy, 1872.jpg",
+      "artist": "Ivan Kramskoy",
+      "year": 1872,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/116. Christ in the Wilderness by Ivan Kramskoy, 1872.jpg",
+      "title": "Christ in the Wilderness"
+    },
+    {
+      "id": 117,
+      "filename": "117. Figures at a Ball by Mary Swanzy, 1925-1930.jpg",
+      "artist": "Mary Swanzy",
+      "year": 1925,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/117. Figures at a Ball by Mary Swanzy, 1925-1930.jpg",
+      "title": "Figures at a Ball"
+    },
+    {
+      "id": 118,
+      "filename": "118. Zamin Larzeh by Charles Hossein Zenderoudi, 1971.jpg",
+      "artist": "Charles Hossein Zenderoudi",
+      "year": 1971,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/118. Zamin Larzeh by Charles Hossein Zenderoudi, 1971.jpg",
+      "title": "Zamin Larzeh"
+    },
+    {
+      "id": 119,
+      "filename": "119. Upper Deck by Charles Sheeler, 1929.jpg",
+      "artist": "Charles Sheeler",
+      "year": 1929,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/119. Upper Deck by Charles Sheeler, 1929.jpg",
+      "title": "Upper Deck"
+    },
+    {
+      "id": 120,
+      "filename": "120. The Infant Moses by Gustave Moureau, 1876-79.jpg",
+      "artist": "Gustave Moureau",
+      "year": 1876,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/120. The Infant Moses by Gustave Moureau, 1876-79.jpg",
+      "title": "The Infant Moses"
+    },
+    {
+      "id": 121,
+      "filename": "121. The Burning II or The Fire by Maria Helena Vieira Da Silva, 1944.jpg",
+      "artist": "Maria Helena Vieira Da Silva",
+      "year": 1944,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/121. The Burning II or The Fire by Maria Helena Vieira Da Silva, 1944.jpg",
+      "title": "The Burning II or The Fire"
+    },
+    {
+      "id": 122,
+      "filename": "122. Our Banner in the Sky by Frederic Edwin Church, 1861.jpg",
+      "artist": "Frederic Edwin Church",
+      "year": 1861,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/122. Our Banner in the Sky by Frederic Edwin Church, 1861.jpg",
+      "title": "Our Banner in the Sky"
+    },
+    {
+      "id": 123,
+      "filename": "123. Armored Train in Action by Gino Severini, 1915.jpg",
+      "artist": "Gino Severini",
+      "year": 1915,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/123. Armored Train in Action by Gino Severini, 1915.jpg",
+      "title": "Armored Train in Action"
+    },
+    {
+      "id": 124,
+      "filename": "124. The mutilated by Jankel Adler, 1942.jpg",
+      "artist": "Jankel Adler",
+      "year": 1942,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/124. The mutilated by Jankel Adler, 1942.jpg",
+      "title": "The mutilated"
+    },
+    {
+      "id": 125,
+      "filename": "125. Imploding Black by Richard Pousette-Dart, 1985-86.jpg",
+      "artist": "Richard Pousette-Dart",
+      "year": 1985,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/125. Imploding Black by Richard Pousette-Dart, 1985-86.jpg",
+      "title": "Imploding Black"
+    },
+    {
+      "id": 126,
+      "filename": "126. No. 7 by Anna Cassel, 1913.jpg",
+      "artist": "Anna Cassel",
+      "year": 1913,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/126. No. 7 by Anna Cassel, 1913.jpg",
+      "title": "No. 7"
+    },
+    {
+      "id": 127,
+      "filename": "127. Manhattan by Georgia O_Keeffe, 1932.jpg",
+      "artist": "Georgia O_Keeffe",
+      "year": 1932,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/127. Manhattan by Georgia O_Keeffe, 1932.jpg",
+      "title": "Manhattan"
+    },
+    {
+      "id": 128,
+      "filename": "128. At the Beach by Walter Womacka, 1962.jpg",
+      "artist": "Walter Womacka",
+      "year": 1962,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/128. At the Beach by Walter Womacka, 1962.jpg",
+      "title": "At the Beach"
+    },
+    {
+      "id": 129,
+      "filename": "129. Red and Gold Salute, Sunset by James McNeil Whistler, 1880.jpg",
+      "artist": "James McNeil Whistler",
+      "year": 1880,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/129. Red and Gold Salute, Sunset by James McNeil Whistler, 1880.jpg",
+      "title": "Red and Gold Salute, Sunset"
+    },
+    {
+      "id": 130,
+      "filename": "130. The Trial by Sidney Nolan, 1947.jpg",
+      "artist": "Sidney Nolan",
+      "year": 1947,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/130. The Trial by Sidney Nolan, 1947.jpg",
+      "title": "The Trial"
+    },
+    {
+      "id": 131,
+      "filename": "131. Red Bar by Stewart Hitch, 1977.png",
+      "artist": "Stewart Hitch",
+      "year": 1977,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/131. Red Bar by Stewart Hitch, 1977.png",
+      "title": "Red Bar"
+    },
+    {
+      "id": 132,
+      "filename": "132. Pansies in Washington by Alma Thomas, 1969.jpg",
+      "artist": "Alma Thomas",
+      "year": 1969,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/132. Pansies in Washington by Alma Thomas, 1969.jpg",
+      "title": "Pansies in Washington"
+    },
+    {
+      "id": 134,
+      "filename": "134. Das Diner by Franz Stuck,1913.jpg",
+      "artist": "Franz Stuck",
+      "year": 1913,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/134. Das Diner by Franz Stuck,1913.jpg",
+      "title": "Das Diner"
+    },
+    {
+      "id": 135,
+      "filename": "135. Lunch Drawing by Raul Guerrero, 2003.jpg",
+      "artist": "Raul Guerrero",
+      "year": 2003,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/135. Lunch Drawing by Raul Guerrero, 2003.jpg",
+      "title": "Lunch Drawing"
+    },
+    {
+      "id": 136,
+      "filename": "136. Forest, Moon, Tree by Jake Bethot, 2014.jpg",
+      "artist": "Jake Bethot",
+      "year": 2014,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/136. Forest, Moon, Tree by Jake Bethot, 2014.jpg",
+      "title": "Forest, Moon, Tree"
+    },
+    {
+      "id": 137,
+      "filename": "137. Eye by William S. Burroughs, 1992.jpg",
+      "artist": "William S. Burroughs",
+      "year": 1992,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/137. Eye by William S. Burroughs, 1992.jpg",
+      "title": "Eye"
+    },
+    {
+      "id": 138,
+      "filename": "138. Acetic hay bale purification facilities by Maya Bykuc, 2025.jpg",
+      "artist": "Maya Bykuc",
+      "year": 2025,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/138. Acetic hay bale purification facilities by Maya Bykuc, 2025.jpg",
+      "title": "Acetic hay bale purification facilities"
+    },
+    {
+      "id": 139,
+      "filename": "139. Largeness by Caspar David Friedrich, 1832.jpg",
+      "artist": "Caspar David Friedrich",
+      "year": 1832,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/139. Largeness by Caspar David Friedrich, 1832.jpg",
+      "title": "Largeness"
+    },
+    {
+      "id": 140,
+      "filename": "140. Carthage by Valerie Jaudon, 1980.jpg",
+      "artist": "Valerie Jaudon",
+      "year": 1980,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/140. Carthage by Valerie Jaudon, 1980.jpg",
+      "title": "Carthage"
+    },
+    {
+      "id": 141,
+      "filename": "141. Terrifying Terrain by Elizabeth Murray, 1989-90.jpg",
+      "artist": "Elizabeth Murray",
+      "year": 1989,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/141. Terrifying Terrain by Elizabeth Murray, 1989-90.jpg",
+      "title": "Terrifying Terrain"
+    },
+    {
+      "id": 142,
+      "filename": "142. Chocolate Grinder by Marcel Duchamp, 1914.jpg",
+      "artist": "Marcel Duchamp",
+      "year": 1914,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/142. Chocolate Grinder by Marcel Duchamp, 1914.jpg",
+      "title": "Chocolate Grinder"
+    },
+    {
+      "id": 143,
+      "filename": "143. Cabinet of Curiosities by Domenico Remps, 1690s.jpg",
+      "artist": "Domenico Remps",
+      "year": 1690,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/143. Cabinet of Curiosities by Domenico Remps, 1690s.jpg",
+      "title": "Cabinet of Curiosities"
+    },
+    {
+      "id": 144,
+      "filename": "144. High Noon by Arhtur G. Dove, 1944.jpg",
+      "artist": "Arhtur G. Dove",
+      "year": 1944,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/144. High Noon by Arhtur G. Dove, 1944.jpg",
+      "title": "High Noon"
+    },
+    {
+      "id": 145,
+      "filename": "145. The Incredulity of Saint Thomas by Michelangelo Merisi da Caravaggio, 1602.jpg",
+      "artist": "Michelangelo Merisi da Caravaggio",
+      "year": 1602,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/145. The Incredulity of Saint Thomas by Michelangelo Merisi da Caravaggio, 1602.jpg",
+      "title": "The Incredulity of Saint Thomas"
+    },
+    {
+      "id": 146,
+      "filename": "146. Daybreak by Charles Burchfield, 1920.jpg",
+      "artist": "Charles Burchfield",
+      "year": 1920,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/146. Daybreak by Charles Burchfield, 1920.jpg",
+      "title": "Daybreak"
+    },
+    {
+      "id": 147,
+      "filename": "147. Clearing Up by George Inness, 1860.jpg",
+      "artist": "George Inness",
+      "year": 1860,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/147. Clearing Up by George Inness, 1860.jpg",
+      "title": "Clearing Up"
+    },
+    {
+      "id": 148,
+      "filename": "148. Buddha_s Court by Helen Frankenthaler, 1964.jpg",
+      "artist": "Helen Frankenthaler",
+      "year": 1964,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/148. Buddha_s Court by Helen Frankenthaler, 1964.jpg",
+      "title": "Buddha_s Court"
+    },
+    {
+      "id": 149,
+      "filename": "149. Untitled by Alix Le Meleder, 2011.jpg",
+      "artist": "Alix Le Meleder",
+      "year": 2011,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/149. Untitled by Alix Le Meleder, 2011.jpg",
+      "title": "Untitled"
+    },
+    {
+      "id": 150,
+      "filename": "150. The Petrified Dream by Jacques Herold, 1973.jpg",
+      "artist": "Jacques Herold",
+      "year": 1973,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/150. The Petrified Dream by Jacques Herold, 1973.jpg",
+      "title": "The Petrified Dream"
+    },
+    {
+      "id": 151,
+      "filename": "151. Sword by Robert Moskowitz, 1976.jpg",
+      "artist": "Robert Moskowitz",
+      "year": 1976,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/151. Sword by Robert Moskowitz, 1976.jpg",
+      "title": "Sword"
+    },
+    {
+      "id": 152,
+      "filename": "152. Cows in the Lowland by Emil Nolde, 1909.jpg",
+      "artist": "Emil Nolde",
+      "year": 1909,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/152. Cows in the Lowland by Emil Nolde, 1909.jpg",
+      "title": "Cows in the Lowland"
+    },
+    {
+      "id": 153,
+      "filename": "153. The Nativity by Piero della Francesca, 1470.jpg",
+      "artist": "Piero della Francesca",
+      "year": 1470,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/153. The Nativity by Piero della Francesca, 1470.jpg",
+      "title": "The Nativity"
+    },
+    {
+      "id": 154,
+      "filename": "154. On the terrace in Kharkov by Zinaida Serebriakova, 1919.jpg",
+      "artist": "Zinaida Serebriakova",
+      "year": 1919,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/154. On the terrace in Kharkov by Zinaida Serebriakova, 1919.jpg",
+      "title": "On the terrace in Kharkov"
+    },
+    {
+      "id": 155,
+      "filename": "155. Savior_s Face, Distant King - Buddha II by Alexej von Jawlensky, 1921.jpg",
+      "artist": "Alexej von Jawlensky",
+      "year": 1921,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/155. Savior_s Face, Distant King - Buddha II by Alexej von Jawlensky, 1921.jpg",
+      "title": "Savior_s Face, Distant King - Buddha II"
+    },
+    {
+      "id": 156,
+      "filename": "156. Knight of the Flowers by Georges Rochegrosse, 1894.jpg",
+      "artist": "Georges Rochegrosse",
+      "year": 1894,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/156. Knight of the Flowers by Georges Rochegrosse, 1894.jpg",
+      "title": "Knight of the Flowers"
+    },
+    {
+      "id": 157,
+      "filename": "157. Subway by Mark Rothko, 1937.jpg",
+      "artist": "Mark Rothko",
+      "year": 1937,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/157. Subway by Mark Rothko, 1937.jpg",
+      "title": "Subway"
+    },
+    {
+      "id": 158,
+      "filename": "158. Portrait of a man sitting by Dimitris Mytaras, 1979-80.jpg",
+      "artist": "Dimitris Mytaras",
+      "year": 1979,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/158. Portrait of a man sitting by Dimitris Mytaras, 1979-80.jpg",
+      "title": "Portrait of a man sitting"
+    },
+    {
+      "id": 160,
+      "filename": "160. Touch and go by Federick Hammersley, 1964.jpg",
+      "artist": "Federick Hammersley",
+      "year": 1964,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/160. Touch and go by Federick Hammersley, 1964.jpg",
+      "title": "Touch and go"
+    },
+    {
+      "id": 161,
+      "filename": "161. Alphie by Mernet Larsen, 2015.jpg",
+      "artist": "Mernet Larsen",
+      "year": 2015,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/161. Alphie by Mernet Larsen, 2015.jpg",
+      "title": "Alphie"
+    },
+    {
+      "id": 162,
+      "filename": "162. Abductor by Fred Tomaselli, 2006.jpg",
+      "artist": "Fred Tomaselli",
+      "year": 2006,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/162. Abductor by Fred Tomaselli, 2006.jpg",
+      "title": "Abductor"
+    },
+    {
+      "id": 163,
+      "filename": "163. Psychedelic Christian by Alex Grey, 1984.jpg",
+      "artist": "Alex Grey",
+      "year": 1984,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/163. Psychedelic Christian by Alex Grey, 1984.jpg",
+      "title": "Psychedelic Christian"
+    },
+    {
+      "id": 164,
+      "filename": "164. Gassed by John Singer Sargent, 1918.jpg",
+      "artist": "John Singer Sargent",
+      "year": 1918,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/164. Gassed by John Singer Sargent, 1918.jpg",
+      "title": "Gassed"
+    },
+    {
+      "id": 165,
+      "filename": "165. The Choir of Angels by Hildegard Von Bingen, 1150.png",
+      "artist": "Hildegard Von Bingen",
+      "year": 1150,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/165. The Choir of Angels by Hildegard Von Bingen, 1150.png",
+      "title": "The Choir of Angels"
+    },
+    {
+      "id": 166,
+      "filename": "166. Paris dream by Max Ernst, 1925.jpg",
+      "artist": "Max Ernst",
+      "year": 1925,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/166. Paris dream by Max Ernst, 1925.jpg",
+      "title": "Paris dream"
+    },
+    {
+      "id": 167,
+      "filename": "167. You Shall Be Born Again by Julio Galan, 1995.png",
+      "artist": "Julio Galan",
+      "year": 1995,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/167. You Shall Be Born Again by Julio Galan, 1995.png",
+      "title": "You Shall Be Born Again"
+    },
+    {
+      "id": 168,
+      "filename": "168. Ojos de gato by Julio Galan, 1992.jpg",
+      "artist": "Julio Galan",
+      "year": 1992,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/168. Ojos de gato by Julio Galan, 1992.jpg",
+      "title": "Ojos de gato"
+    },
+    {
+      "id": 169,
+      "filename": "169. MacNamara by Robert Henri, 1925.jpg",
+      "artist": "Robert Henri",
+      "year": 1925,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/169. MacNamara by Robert Henri, 1925.jpg",
+      "title": "MacNamara"
+    },
+    {
+      "id": 170,
+      "filename": "170. Celebration Day by Frederick Childe Hassam, 1918.jpg",
+      "artist": "Frederick Childe Hassam",
+      "year": 1918,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/170. Celebration Day by Frederick Childe Hassam, 1918.jpg",
+      "title": "Celebration Day"
+    },
+    {
+      "id": 171,
+      "filename": "171. Portrait of Sor Juana Ines de la Cruz by Miguel Cabrera, 1750.png",
+      "artist": "Miguel Cabrera",
+      "year": 1750,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/171. Portrait of Sor Juana Ines de la Cruz by Miguel Cabrera, 1750.png",
+      "title": "Portrait of Sor Juana Ines de la Cruz"
+    },
+    {
+      "id": 172,
+      "filename": "172. 227 A Raindrop Which Falls into the City by Friedensreich Hundertwasser, 1955.jpg",
+      "artist": "Friedensreich Hundertwasser",
+      "year": 1955,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/172. 227 A Raindrop Which Falls into the City by Friedensreich Hundertwasser, 1955.jpg",
+      "title": "227 A Raindrop Which Falls into the City"
+    },
+    {
+      "id": 173,
+      "filename": "173. The Wedding by Jacqueline Hick, 1966.jpg",
+      "artist": "Jacqueline Hick",
+      "year": 1966,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/173. The Wedding by Jacqueline Hick, 1966.jpg",
+      "title": "The Wedding"
+    },
+    {
+      "id": 174,
+      "filename": "174. Cliff Dwellers by George Bellows, 1913.jpg",
+      "artist": "George Bellows",
+      "year": 1913,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/174. Cliff Dwellers by George Bellows, 1913.jpg",
+      "title": "Cliff Dwellers"
+    },
+    {
+      "id": 175,
+      "filename": "175. The Surrender of Breda by Diego Velazquez, 1634-35.jpg",
+      "artist": "Diego Velazquez",
+      "year": 1634,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/175. The Surrender of Breda by Diego Velazquez, 1634-35.jpg",
+      "title": "The Surrender of Breda"
+    },
+    {
+      "id": 179,
+      "filename": "179. Delacroix Palette by Jack Whitten, 1974.jpg",
+      "artist": "Jack Whitten",
+      "year": 1974,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/179. Delacroix Palette by Jack Whitten, 1974.jpg",
+      "title": "Delacroix Palette"
+    },
+    {
+      "id": 180,
+      "filename": "180. Ivan Sirko by Theodore Tetianych, 1966.jpg",
+      "artist": "Theodore Tetianych",
+      "year": 1966,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/180. Ivan Sirko by Theodore Tetianych, 1966.jpg",
+      "title": "Ivan Sirko"
+    },
+    {
+      "id": 181,
+      "filename": "181. Alexander_s Dream by Abdul Mati Klarwein, 1980.jpg",
+      "artist": "Abdul Mati Klarwein",
+      "year": 1980,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/181. Alexander_s Dream by Abdul Mati Klarwein, 1980.jpg",
+      "title": "Alexander_s Dream"
+    },
+    {
+      "id": 182,
+      "filename": "182. Eggs on the carpet by Felice Casorati, 1955.jpg",
+      "artist": "Felice Casorati",
+      "year": 1955,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/182. Eggs on the carpet by Felice Casorati, 1955.jpg",
+      "title": "Eggs on the carpet"
+    },
+    {
+      "id": 183,
+      "filename": "183. The Bullfight by Edouard Manet, 1865.jpg",
+      "artist": "Edouard Manet",
+      "year": 1865,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/183. The Bullfight by Edouard Manet, 1865.jpg",
+      "title": "The Bullfight"
+    },
+    {
+      "id": 184,
+      "filename": "184. Officer and Laughing Girl by Johannes Vermeer, 1657.jpg",
+      "artist": "Johannes Vermeer",
+      "year": 1657,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/184. Officer and Laughing Girl by Johannes Vermeer, 1657.jpg",
+      "title": "Officer and Laughing Girl"
+    },
+    {
+      "id": 185,
+      "filename": "185. Tet by Morris Louis, 1958.jpg",
+      "artist": "Morris Louis",
+      "year": 1958,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/185. Tet by Morris Louis, 1958.jpg",
+      "title": "Tet"
+    },
+    {
+      "id": 187,
+      "filename": "187. Seated Man by Alberto Giacometti, 1950.jpg",
+      "artist": "Alberto Giacometti",
+      "year": 1950,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/187. Seated Man by Alberto Giacometti, 1950.jpg",
+      "title": "Seated Man"
+    },
+    {
+      "id": 188,
+      "filename": "188. Mountain Milk by johannes S. Kjarval, 1941.jpg",
+      "artist": "johannes S. Kjarval",
+      "year": 1941,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/188. Mountain Milk by johannes S. Kjarval, 1941.jpg",
+      "title": "Mountain Milk"
+    },
+    {
+      "id": 189,
+      "filename": "189. Simeon the stylite by Carel Willink, 1939.jpg",
+      "artist": "Carel Willink",
+      "year": 1939,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/189. Simeon the stylite by Carel Willink, 1939.jpg",
+      "title": "Simeon the stylite"
+    },
+    {
+      "id": 190,
+      "filename": "190. Child by Cagnaccio di Dan Pietro, 1940.jpg",
+      "artist": "Cagnaccio di Dan Pietro",
+      "year": 1940,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/190. Child by Cagnaccio di Dan Pietro, 1940.jpg",
+      "title": "Child"
+    },
+    {
+      "id": 191,
+      "filename": "191. Lady Godiva by Remedios Vara, 1959.jpg",
+      "artist": "Remedios Vara",
+      "year": 1959,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/191. Lady Godiva by Remedios Vara, 1959.jpg",
+      "title": "Lady Godiva"
+    },
+    {
+      "id": 193,
+      "filename": "193. Ka_ao Watercolor by Billy Al Bengston, 1983.jpg",
+      "artist": "Billy Al Bengston",
+      "year": 1983,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/193. Ka_ao Watercolor by Billy Al Bengston, 1983.jpg",
+      "title": "Ka_ao Watercolor"
+    },
+    {
+      "id": 194,
+      "filename": "194. The Lamp by Mario Sironi, 1919.jpg",
+      "artist": "Mario Sironi",
+      "year": 1919,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/194. The Lamp by Mario Sironi, 1919.jpg",
+      "title": "The Lamp"
+    },
+    {
+      "id": 195,
+      "filename": "195. Car and ocean by Wilhelm Sasnal, 2025.jpg",
+      "artist": "Wilhelm Sasnal",
+      "year": 2025,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/195. Car and ocean by Wilhelm Sasnal, 2025.jpg",
+      "title": "Car and ocean"
+    },
+    {
+      "id": 199,
+      "filename": "199. Spiral Axis by Christo Coetzee, 1949.jpg",
+      "artist": "Christo Coetzee",
+      "year": 1949,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/199. Spiral Axis by Christo Coetzee, 1949.jpg",
+      "title": "Spiral Axis"
+    },
+    {
+      "id": 203,
+      "filename": "203. Il quadrato di Villafranca by Giovanni Fattori, 1876-1880.jpg",
+      "artist": "Giovanni Fattori",
+      "year": 1876,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/203. Il quadrato di Villafranca by Giovanni Fattori, 1876-1880.jpg",
+      "title": "Il quadrato di Villafranca"
+    },
+    {
+      "id": 205,
+      "filename": "205. The Boatman of Mortefontaine by Jean-Baptiste Camille Corot, 1865-1870.jpg",
+      "artist": "Jean-Baptiste Camille Corot",
+      "year": 1865,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/205. The Boatman of Mortefontaine by Jean-Baptiste Camille Corot, 1865-1870.jpg",
+      "title": "The Boatman of Mortefontaine"
+    },
+    {
+      "id": 206,
+      "filename": "206. Trompe l_Oeil by Jean Etienne Liotard, 1771.jpg",
+      "artist": "Jean Etienne Liotard",
+      "year": 1771,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/206. Trompe l_Oeil by Jean Etienne Liotard, 1771.jpg",
+      "title": "Trompe l_Oeil"
+    },
+    {
+      "id": 207,
+      "filename": "207. Esor by Whitney Claflin, 2018.jpg",
+      "artist": "Whitney Claflin",
+      "year": 2018,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/207. Esor by Whitney Claflin, 2018.jpg",
+      "title": "Esor"
+    },
+    {
+      "id": 208,
+      "filename": "208. Off York Island by John Marin, 1922.jpg",
+      "artist": "John Marin",
+      "year": 1922,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/208. Off York Island by John Marin, 1922.jpg",
+      "title": "Off York Island"
+    },
+    {
+      "id": 209,
+      "filename": "209. The Earth and the Sky by Patty Willis, 1942.jpeg",
+      "artist": "Patty Willis",
+      "year": 1942,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/209. The Earth and the Sky by Patty Willis, 1942.jpeg",
+      "title": "The Earth and the Sky"
+    },
+    {
+      "id": 210,
+      "filename": "210. Helmut and Margaret by Bill Brody, 1977.jpg",
+      "artist": "Bill Brody",
+      "year": 1977,
+      "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/210. Helmut and Margaret by Bill Brody, 1977.jpg",
+      "title": "Helmut and Margaret"
+    }
+  ]
+}
