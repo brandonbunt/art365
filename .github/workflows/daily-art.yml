@@ -1,0 +1,24 @@
+name: Publish daily artwork selection
+
+on:
+  schedule:
+    - cron: "10 0 * * *"   # 00:10 UTC daily
+  workflow_dispatch: {}     # manual re-pick from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  pick:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pick today's artwork
+        run: python3 pick_daily.py
+      - name: Commit today.json
+        run: |
+          git config user.name "art365-daily"
+          git config user.email "actions@users.noreply.github.com"
+          git add today.json
+          git diff --cached --quiet || git commit -m "daily: $(date -u +%F) selection"
+          git push
