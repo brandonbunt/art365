@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "artwork": {
-    "id": 164,
-    "filename": "164. Gassed by John Singer Sargent, 1918.jpg",
-    "artist": "John Singer Sargent",
-    "year": 1918,
-    "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/164. Gassed by John Singer Sargent, 1918.jpg",
-    "title": "Gassed"
+    "id": 6,
+    "filename": "6. The Frogs Asking for a King by Gustave Moreau, 1884.jpg",
+    "artist": "Gustave Moreau",
+    "year": 1884,
+    "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/6. The Frogs Asking for a King by Gustave Moreau, 1884.jpg",
+    "title": "The Frogs Asking for a King"
   }
 }
