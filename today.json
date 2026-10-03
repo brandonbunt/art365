@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "artwork": {
-    "id": 6,
-    "filename": "6. The Frogs Asking for a King by Gustave Moreau, 1884.jpg",
-    "artist": "Gustave Moreau",
-    "year": 1884,
-    "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/6. The Frogs Asking for a King by Gustave Moreau, 1884.jpg",
-    "title": "The Frogs Asking for a King"
+    "id": 2,
+    "filename": "2. Melancholia by Jacek Malczewski, 1894.png",
+    "artist": "Jacek Malczewski",
+    "year": 1894,
+    "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/2. Melancholia by Jacek Malczewski, 1894.png",
+    "title": "Melancholia"
   }
 }
