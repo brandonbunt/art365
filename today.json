@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "artwork": {
-    "id": 111,
-    "filename": "111. Three Feet by Ethan Means, 2025.png",
-    "artist": "Ethan Means",
-    "year": 2025,
-    "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/111. Three Feet by Ethan Means, 2025.png",
-    "title": "Three Feet"
+    "id": 19,
+    "filename": "19. Untitled by Mostafa Dashti, 2009.jpg",
+    "artist": "Mostafa Dashti",
+    "year": 2009,
+    "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/19. Untitled by Mostafa Dashti, 2009.jpg",
+    "title": "Untitled"
   }
 }
