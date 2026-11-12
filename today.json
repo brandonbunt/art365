@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "artwork": {
-    "id": 19,
-    "filename": "19. Untitled by Mostafa Dashti, 2009.jpg",
-    "artist": "Mostafa Dashti",
-    "year": 2009,
-    "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/19. Untitled by Mostafa Dashti, 2009.jpg",
-    "title": "Untitled"
+    "id": 105,
+    "filename": "105. The Mirage of Time by Yves Tanguy, 1954.jpg",
+    "artist": "Yves Tanguy",
+    "year": 1954,
+    "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/105. The Mirage of Time by Yves Tanguy, 1954.jpg",
+    "title": "The Mirage of Time"
   }
 }
