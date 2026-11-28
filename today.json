@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "artwork": {
-    "id": 126,
-    "filename": "126. No. 7 by Anna Cassel, 1913.jpg",
-    "artist": "Anna Cassel",
-    "year": 1913,
-    "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/126. No. 7 by Anna Cassel, 1913.jpg",
-    "title": "No. 7"
+    "id": 100,
+    "filename": "100. Courtyard with Lunatics by Francisco de Goya, 1794.jpg",
+    "artist": "Francisco de Goya",
+    "year": 1794,
+    "url": "https://raw.githubusercontent.com/brandonbunt/art365/main/images/100. Courtyard with Lunatics by Francisco de Goya, 1794.jpg",
+    "title": "Courtyard with Lunatics"
   }
 }
